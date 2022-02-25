@@ -1,6 +1,6 @@
 django
+djongo
 djangorestframework
 djangorestframework-jwt
-djongo
 cors-header
 pymongo==3.12.3
