@@ -6,7 +6,7 @@ Django Rest API project for Sigmatech by Brian
 
 First, clone the repo:
 ```bash
-git clone https://github.com/SambhavChoradia/django-rest-app.git
+git clone https://github.com/brianestadimas/django-sigmatech.git
 ```
 
 ## Usage
